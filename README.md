@@ -1,6 +1,6 @@
 # project-dev-workflow-skill
 
-AI 辅助项目开发的结构化工作流程 Skill，适用于 WorkBuddy。
+AI 辅助项目开发的结构化工作流程 Skill。
 
 ## 功能介绍
 
