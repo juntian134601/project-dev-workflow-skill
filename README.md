@@ -54,10 +54,6 @@ Step7: 增量编码
 # 克隆仓库
 git clone https://github.com/juntian134601/project-dev-workflow-skill.git
 
-# 将 skill 目录复制到 WorkBuddy skills 目录
-cp -r project-dev-workflow-skill/project-dev-workflow ~/.workbuddy/skills/
-```
-
 ## 目录结构
 
 ```
